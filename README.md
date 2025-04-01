@@ -33,6 +33,7 @@ AMUSE is built based on the following repo https://github.com/ando-khachatryan/H
 
 
 ### Citation: 
+```
 @inproceedings{DBLP:conf/icmcs/AlvarB24,
   author       = {Saeed Ranjbar Alvar and Mohammad Akbari and David Ming Xuan Yue and Yong Zhang},
   title        = {AMUSE: Adaptive Multi-Segment Encoding for
@@ -41,6 +42,7 @@ Dataset Watermarking},
   publisher    = {{IEEE}},
   year         = {2025},
 }
+```
 
 
 
