@@ -1,5 +1,5 @@
 ## Code for AMUSE: Adaptive Multi-Segment Encoding for Dataset Watermarking codes
-The repo provides the code for AMUSE: Adaptive Multi-Segment Encoding for Dataset Watermarking codes paper. 
+The repo provides the code for AMUSE: Adaptive Multi-Segment Encoding for Dataset Watermarking codes paper. [[Arxiv]](https://arxiv.org/pdf/2403.05628) 
 
 AMUSE is accepted to ICME 2025. 
 
